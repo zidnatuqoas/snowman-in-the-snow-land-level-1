@@ -1,0 +1,16 @@
+player.onChat("run", function () {
+	
+})
+gameplay.timeSet(gameplay.time(DAY))
+blocks.place(COBBLESTONE, world(35, 63, -986))
+blocks.place(GLASS, world(34, 64, -986))
+blocks.place(GLASS, world(36, 64, -986))
+blocks.place(GLASS, world(35, 64, -987))
+blocks.place(GLASS, world(35, 64, -985))
+blocks.place(GLASS, world(34, 65, -986))
+blocks.place(GLASS, world(36, 65, -986))
+blocks.place(GLASS, world(35, 65, -987))
+blocks.place(GLASS, world(35, 65, -985))
+blocks.place(SNOW, world(35, 64, -986))
+blocks.place(SNOW, world(35, 65, -986))
+blocks.place(CARVED_PUMPKIN, world(35, 66, -986))
